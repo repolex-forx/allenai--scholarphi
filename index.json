@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "scholarphi",
+  "versions": [
+    {
+      "commit": "2fc30ed4d1c4c8c9848b12b8af61174376a7f425",
+      "tag": "",
+      "parsed_at": "2026-11-07T20:31:06.586085+00:00"
+    }
+  ]
+}
